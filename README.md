@@ -66,7 +66,7 @@ sudo apt install yt-dlp ffmpeg
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/poolsuite-cli.git
+git clone https://github.com/jamespember/poolsuite-cli.git
 cd poolsuite-cli
 
 # Run the installer
@@ -259,4 +259,4 @@ If you represent Poolsuite FM and have concerns about this project, please open 
 
 ---
 
-Made with ☀️ for summer vibes all year round | [Report Bug](https://github.com/YOUR_USERNAME/poolsuite-cli/issues) | [Request Feature](https://github.com/YOUR_USERNAME/poolsuite-cli/issues)
+Made with ☀️ for summer vibes all year round | [Report Bug](https://github.com/jamespember/poolsuite-cli/issues) | [Request Feature](https://github.com/jamespember/poolsuite-cli/issues)
